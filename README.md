@@ -1,4 +1,4 @@
-# TyreFlow - Sistema de Gestión de Neumáticos y Flota
+# Sistema de Gestión de Neumáticos y Flota
 
 Una solución integral diseñada para el control, seguimiento y mantenimiento de neumáticos en flotas de transporte y talleres mecánicos. Este sistema optimiza el ciclo de vida de los neumáticos, desde su instalación hasta el recauchaje o desecho final.
 
